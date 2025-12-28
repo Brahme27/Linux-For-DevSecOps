@@ -2,11 +2,11 @@
 
 A comprehensive collection of DevOps learning materials covering Linux fundamentals, SDLC methodologies, and essential system administration commands.
 
-## 📚 Contents
+##  Contents
 
 This repository contains detailed notes and reference materials organized into session-based learning modules and a comprehensive command reference guide.
 
-## 📖 Session Files
+##  Session Files
 
 | File | Topic | Description |
 |------|-------|-------------|
@@ -17,7 +17,7 @@ This repository contains detailed notes and reference materials organized into s
 | **session5.ipynb** | Permissions & System Management | Linux file permissions (chmod, chown), Package management (apt, yum), Service management (systemctl), Process management, and Network commands |
 | **session6.ipynb** | Complete Linux Commands Reference | **Comprehensive guide covering 4500+ lines** - All essential Linux commands from basic to advanced with detailed syntax, examples, and practical DevOps use cases |
 
-## 🛠️ Complete Linux Commands Reference (session6.ipynb)
+##  Complete Linux Commands Reference (session6.ipynb)
 
 Session 6 is the comprehensive Linux commands reference guide covering:
 
@@ -43,7 +43,7 @@ Session 6 is the comprehensive Linux commands reference guide covering:
 - **Task Scheduling** - Cron jobs, at commands, systemd timers
 - **Security & Firewall** - iptables, ufw, firewalld, SSH hardening
 
-## 🎯 Learning Path
+##  Learning Path
 
 **For Beginners:**
 1. Start with session1 (SDLC & DevOps concepts)
@@ -59,7 +59,7 @@ Session 6 is the comprehensive Linux commands reference guide covering:
 - Bookmark frequently used command sections
 - Practice commands in a safe Linux environment or lab
 
-## 💡 Best Practices
+##  Best Practices
 
 - Always test commands in a non-production environment first
 - Use `--help` or `man` pages to understand command options
@@ -67,14 +67,14 @@ Session 6 is the comprehensive Linux commands reference guide covering:
 - Document your configurations and scripts
 - Use version control for important files and scripts
 
-## 🔧 Prerequisites
+##  Prerequisites
 
 - Basic understanding of operating systems
 - Access to a Linux environment (Ubuntu, CentOS, or similar)
 - Terminal/SSH client
 - Text editor (Vim, Nano, or VS Code)
 
-## 📝 Notes
+##  Notes
 
 - All commands are tested on Linux systems (primarily Ubuntu/Debian and RHEL/CentOS)
 - Some commands may require `sudo` privileges
