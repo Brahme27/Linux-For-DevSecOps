@@ -6,6 +6,13 @@ A comprehensive collection of DevOps learning materials covering Linux fundament
 
 This repository contains detailed notes and reference materials organized into session-based learning modules and a comprehensive command reference guide.
 
+##  Folders
+
+| Folder | Description |
+|--------|-------------|
+| **Handwritten notes/** | Collection of handwritten notes and diagrams for visual learners |
+| **Screenshots/** | Screenshots and images referenced in the learning materials |
+
 ##  Session Files
 
 | File | Topic | Description |
@@ -83,4 +90,4 @@ Session 6 is the comprehensive Linux commands reference guide covering:
 
 ---
 
-**Last Updated:** December 2025
+**Last Updated:** March 2026 
